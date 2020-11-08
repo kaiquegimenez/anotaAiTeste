@@ -12,11 +12,12 @@ Mais Informações de instalação do quasar cli em:
 ```
 
 ### Executar projeto
-```1 - Acesse a pasta do projeto;
+```
+1 - Acesse a pasta do projeto;
 2 - Para instalar as dependencias execute o comando:
   $ yarn install
   # or
-  $npm install
+  $ npm install
 3 - Para iniciar o projeto execute o comando:
   $ quasar dev
 ```
