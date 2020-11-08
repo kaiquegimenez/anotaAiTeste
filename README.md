@@ -3,7 +3,8 @@
 A Quasar Framework app
 
 ### Instalar quasar cli
-```$ yarn global add @quasar/cli
+```
+$ yarn global add @quasar/cli
 # or
 $ npm install -g @quasar/cli
 Mais Informações de instalação do quasar cli em:
