@@ -2,19 +2,27 @@
 
 A Quasar Framework app
 
-## Install the dependencies
+## Instalar Quasar cli
 ```bash
 yarn
 ```
 
 ### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
+```$ yarn global add @quasar/cli
+# or
+$ npm install -g @quasar/cli
+Mais Informações de instalação do quasar cli em:
+  https://quasar.dev/quasar-cli/installation
 ```
 
-### Lint the files
-```bash
-yarn run lint
+### Executar projeto
+```1 - Acesse a pasta do projeto;
+2 - Para instalar as dependencias execute o comando:
+  $ yarn install
+  # or
+  $npm install
+3 - Para iniciar o projeto execute o comando:
+  $ quasar dev
 ```
 
 ### Build the app for production
